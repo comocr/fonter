@@ -1,4 +1,4 @@
 **/Archive
-*vcxproj.user
-*vcxproj.filters
-*.aps
+/*.vcxproj.user
+/*.vcxproj.filters
+/*.aps
